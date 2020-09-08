@@ -1,0 +1,15 @@
+{
+  "name": "coyote-web",
+  "collaborators": [
+    "antash <mishraantash34@gmail.com>"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "coyote_web_bg.wasm",
+    "coyote_web.js",
+    "coyote_web.d.ts"
+  ],
+  "module": "coyote_web.js",
+  "types": "coyote_web.d.ts",
+  "sideEffects": false
+}
